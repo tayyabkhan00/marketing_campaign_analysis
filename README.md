@@ -278,7 +278,7 @@ This project helped strengthen skills in:
 
 ## 👨‍💻 Author
 
-**Iron Man**
+**Tayyab Khan**
 
 B.Tech – Artificial Intelligence & Data Science
 
